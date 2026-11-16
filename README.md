@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm MD Siyam 👋
+**Aspiring Developer | AI Enthusiast | AI Video Creator**
 
-<!--
-**siam753/siam753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student from Dhaka, Bangladesh, interested in coding and AI. I learn by building — small web projects, Python/JavaScript experiments, and AI-powered video projects.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- 🦉 **Discover Unknownia** — AI-generated Bengali wildlife documentary Shorts & Reels (Founder & AI Video Creator)
+- 💼 **BusinessGrow BD** — AI video & promo content
+- 🛍️ **EcoPaws** — an online shop (HTML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning & interests
+- Coding: HTML, CSS, JavaScript — learning Python
+- AI: AI video generation, voiceover & automation
+- Building in public — I code when I can and upload my projects here
+
+## 🛠️ Skills
+HTML · CSS · JavaScript · AI Video Creation · Video Editing · Voiceover · Canva
+
+## 🔗 Connect
+- ▶️ YouTube (Discover Unknownia): https://www.youtube.com/@DiscoverUnknownia-1
+- 📘 Facebook (Discover Unknownia): https://www.facebook.com/profile.php?id=61565843891145
+- 💼 Fiverr: https://www.fiverr.com/siyamcreates
+- 📧 siyamdc753@gmail.com
